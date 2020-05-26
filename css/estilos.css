@@ -14,8 +14,11 @@ font-family: verdana;
   margin: 0 auto;
 }
 
-#container #cabecera { background-color: white; margin-top: -1rem; text-align: center;}
-#container #cabecera h1 {color: red; padding: 1rem; text-transform: uppercase; font-size: 3rem}
+#container #cabecera { background-color: white; margin-top: 1rem; text-align: center;
+border:4px green solid;}
+
+#container #cabecera h1 {color: red; padding: 1rem;
+text-transform: uppercase; font-size: 3rem}
 #container #cabecera p {font-family:tahoma; font-size:55px; text-transform: uppercase;}
 
 #container h1 {color:#fff; font-size: 20px;}
